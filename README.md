@@ -1,3 +1,5 @@
+# Hands Detection and Segmentation
+
 Group members:
 
 **Edoardo Bastianello**, ID 2053077
@@ -8,7 +10,8 @@ Group members:
 
 
 *********************************************************************************************
-STRUCTURE OF THE DIRECTORIES:
+#### STRUCTURE OF THE DIRECTORIES
+
 - "src": it contains the code.
 - "train_model": it contains the python script used to train the model (YOLOv5) , the .ipynb notebook version of the training, and 2 .yaml configuration file.
 - the root directory contains: the report, the CMakeLists.txt and it also contain the the neural network model (.onnx format) if this is the version uploaded on the cloud.
@@ -17,6 +20,8 @@ Note: the trained model is the file "best.onnx" ----> too heavy to upload on git
 
 
 *********************************************************************************************
+#### INFO
+
 The name of the executable obtained with CMake will be "project_hands".
 
 THERE ARE 3 POSSIBILE WAYS TO TEST THE CODE (BASED ON THE DATASET YOU WANT TO USE):
