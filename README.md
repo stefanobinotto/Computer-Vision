@@ -1,7 +1,10 @@
 Group members:
-Edoardo Bastianello, ID 2053077
-Stefano Binotto, ID 2052421
-Gabriele Boscarini, ID 2063145
+**Edoardo Bastianello**, ID 2053077
+
+**Stefano Binotto**, ID 2052421
+
+**Gabriele Boscarini**, ID 2063145
+
 
 *********************************************************************************************
 STRUCTURE OF THE DIRECTORIES:
