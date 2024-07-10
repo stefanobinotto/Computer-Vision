@@ -1,5 +1,7 @@
 # Hands Detection and Segmentation
+This [report](https://github.com/stefanobinotto/Hands-Detection-and-Segmentation/blob/main/Project_Report.pdf) describes the chosen implementation approach and the outcomes.
 
+*********************************************************************************************
 Group members:
 
 **Edoardo Bastianello**, ID 2053077
@@ -7,7 +9,6 @@ Group members:
 **Stefano Binotto**, ID 2052421
 
 **Gabriele Boscarini**, ID 2063145
-
 
 *********************************************************************************************
 #### STRUCTURE OF THE DIRECTORIES
