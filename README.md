@@ -5,13 +5,11 @@ This repository contains the delivery of the final project for the Computer Visi
 This [report](https://github.com/stefanobinotto/Hands-Detection-and-Segmentation/blob/main/Project_Report.pdf) meticulously describes the chosen implementation approach and the outcomes.
 
 *********************************************************************************************
-Group members:
+**Group members**:
 
-**Edoardo Bastianello**, ID 2053077
-
-**Stefano Binotto**, ID 2052421
-
-**Gabriele Boscarini**, ID 2063145
+- Edoardo Bastianello, ID: 2053077
+- Stefano Binotto, ID: 2052421
+- Gabriele Boscarini, ID: 2063145
 
 *********************************************************************************************
 #### STRUCTURE OF THE DIRECTORIES
