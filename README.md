@@ -2,7 +2,7 @@
 
 This repository contains the delivery of the final project for the Computer Vision course at UniPD - DEI 2021/22.
 
-This [report](https://github.com/stefanobinotto/Hands-Detection-and-Segmentation/blob/main/Project_Report.pdf) meticulously describes the chosen implementation approach and the outcomes.
+[Here](https://github.com/stefanobinotto/Human-Hands-Detection-and-Segmentation/blob/main/CV_project_summer_2022.pdf) is the assignment of the project, while this [report](https://github.com/stefanobinotto/Hands-Detection-and-Segmentation/blob/main/Project_Report.pdf) meticulously describes the chosen implementation approach and the outcomes.
 
 *********************************************************************************************
 **Group members**:
