@@ -1,4 +1,4 @@
-# Hands Detection and Segmentation
+# Human Hands Detection and Segmentation
 
 This repository contains the delivery of the final project for the Computer Vision course at UniPD - DEI 2021/22.
 
